@@ -6,9 +6,9 @@ color:
   saturation: 0.6657341348472983
   rhythmicContrast: 0.13050440442748368
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: OrganisedStyle
