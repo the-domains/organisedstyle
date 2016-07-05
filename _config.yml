@@ -1,0 +1,14 @@
+layout_spectrum: 0.7172088904771954
+typography_spectrum: 0.29059947188943624
+color:
+  brandStrength: 0.5057843774557114
+  lightness: 0.34889726247638464
+  saturation: 0.6657341348472983
+  rhythmicContrast: 0.13050440442748368
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: OrganisedStyle
